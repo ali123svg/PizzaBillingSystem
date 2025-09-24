@@ -13,4 +13,4 @@ Java, Eclipse
 ## How to Run
 1. Clone repo  
 2. Open in Eclipse
-3. Run main class
+3. Run PizzaBillingSystem.java
