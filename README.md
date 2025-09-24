@@ -1,17 +1,16 @@
-# Pizza Billing System
-
-A Java console application for pizza ordering, billing, and invoice generation.
+# Pizza Billing System  
+Java console app for pizza ordering and billing.
 
 ## Features
-- Menu management and order calculations
-- Tax computation and receipt generation
-- Order tracking and billing system
-- OOP implementation
+- Menu management
+- Order calculations
+- Tax computation
+- Receipt generation
 
-## Technologies Used
-- Java, Eclipse
+## Technologies
+Java, Eclipse
 
 ## How to Run
-1. Clone this repository
-2. Open in Eclipse IDE
-3. Run the main class file
+1. Clone repo  
+2. Open in Eclipse
+3. Run main class
